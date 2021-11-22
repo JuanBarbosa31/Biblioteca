@@ -1,0 +1,3 @@
+# Aplicação de uma Biblioteca pessoal, onde podera cadastrar livros, cadastar dados de emprestimos dos livros e etc...
+Aplicação Desenvolvida em Java utilizando a Biblioteca SWING para a criação das interfaces graficas.
+Utilizei o SQL para armazenar os dados.
